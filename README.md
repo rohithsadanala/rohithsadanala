@@ -1,133 +1,125 @@
-<h1 align="center">Hi 👋, I'm Rohith Sadanala</h1>
-<h3 align="center">AI Engineer | Generative AI | LLM Systems | Full Stack Developer</h3>
+
+<h1 align="center">
+  Hi 👋, I'm Rohith Sadanala
+</h1>
+
+<h3 align="center">
+AI Engineer | LLM Systems Builder | Full Stack Developer
+</h3>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-I’m an AI Engineer with 4+ years of experience building production-grade AI systems, LLM applications, and scalable full-stack platforms.
+🚀 Building production-grade AI systems (LLMs, RAG, Agents, Cloud-native apps)  
+🧠 Specializing in Generative AI, Agentic Workflows, and Scalable Backend Systems  
+☁️ AWS | Docker | CI/CD | Microservices | LLMOps  
 
-I specialize in building **end-to-end intelligent systems** combining:
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI workflows (LangChain / LangGraph)
-- Cloud-native backend systems (AWS, Microservices)
-- Full-stack AI applications
-
-My focus is building **real-world production systems**, not just prototypes.
+</div>
 
 ---
 
-## 🧠 What I Do
+## 🧠 About Me
 
-- Build LLM-powered applications (RAG, chatbots, agents)
-- Design multi-step agentic AI systems
-- Develop scalable backend systems (Python, Java, Go)
-- Build full-stack AI products (React + FastAPI/Django)
-- Deploy cloud-native systems using AWS, Docker, CI/CD
-- Optimize LLM performance, cost, and latency in production
+I’m an AI Engineer with 4+ years of experience building production-grade AI systems, LLM applications, and full-stack platforms.
 
----
-
-## 🚀 Key Projects & Experience
-
-### 🧠 AI Conversational RAG Platform
-Built a production-grade AI system that converts complex structured + unstructured data into real-time conversational intelligence.
-
-- Built full RAG pipeline using embeddings + vector databases
-- Designed retrieval system using LangChain + LangGraph
-- Optimized chunking, retrieval accuracy, and response latency
-- Built secure backend APIs with FastAPI + authentication
-- Integrated React-based chatbot UI for real-time interaction
-
-📌 Impact:
-Automated manual research and enabled intelligent document reasoning at scale.
+I focus on building **real-world scalable AI systems**, including:
+- LLM-powered applications (RAG, chatbots, agents)
+- Agentic AI systems (LangChain, LangGraph)
+- Full-stack AI platforms (React + Python)
+- Cloud-native backend systems (AWS, Docker, CI/CD)
+- Enterprise ML systems (MLOps / LLMOps)
 
 ---
 
-### 🤖 Agentic AI Systems (Airbnb – GenAI)
-Built production-scale LLM systems with multi-step reasoning and tool execution.
+## 🚀 Current Focus
 
-- Designed agent workflows using LangChain + LangGraph
-- Built backend systems handling **50K+ requests/sec**
-- Achieved sub-200ms inference latency in production systems
-- Implemented LLM evaluation + RL-based optimization pipelines
-- Built MLOps monitoring using Prometheus + Grafana
+- Building LLM evaluation & agentic reasoning systems  
+- Designing scalable RAG architectures  
+- Optimizing production LLM latency & cost  
+- Working on AI systems that scale in real environments  
 
 ---
 
-### 🏥 Enterprise AI Systems (Healthcare + Fraud Detection)
-Built secure, domain-specific AI systems for healthcare and fraud detection.
+## ⚙️ Tech Stack
 
-- Designed RAG systems for enterprise healthcare workflows
-- Built ML pipelines for credential verification (HIPAA-compliant)
-- Developed fraud detection system using CLIP + FAISS + LLaMA
-- Processed 10K+ images/day with 92% accuracy
-- Reduced manual review workload by 65%
-
----
-
-### 📊 ML & Predictive Systems
-- Built predictive models for operational intelligence (no-show prediction)
-- Fine-tuned LLaMA / GPT models using LoRA / QLoRA
-- Reduced compute cost by ~50% while maintaining performance
-- Applied transformer models for classification and semantic tasks
-
----
-
-## ⚙️ Technical Skills
+<div align="center">
 
 ### 🧠 AI / ML
-LLMs, Generative AI, RAG, Agentic AI, NLP, Computer Vision, Prompt Engineering, Fine-tuning (LoRA/QLoRA), Evaluation Systems
-
-### ⚙️ Frameworks
-PyTorch, TensorFlow, scikit-learn, LangChain, LangGraph, MLflow, Airflow, Hugging Face
+LangChain | LangGraph | LLMs | RAG | NLP | Computer Vision | PyTorch | TensorFlow | LoRA | QLoRA
 
 ### 💻 Backend
-Python (FastAPI, Django), Java (Spring Boot), Node.js, Go, Microservices, REST APIs
+Python | FastAPI | Django | Java | Spring Boot | Node.js | Go | REST APIs | Microservices
 
 ### 🌐 Frontend
-React, Next.js, Angular, TypeScript, JavaScript, Tailwind CSS
+React | Next.js | Angular | TypeScript | JavaScript | Tailwind CSS
 
 ### ☁️ Cloud / DevOps
-AWS (S3, EC2, Lambda, SageMaker, Bedrock), Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions), Terraform
+AWS | Docker | Kubernetes | CI/CD | Jenkins | GitHub Actions | Terraform
+
+</div>
 
 ---
 
-## 📜 Certifications
+## 🚀 Featured Projects
 
-- AWS Machine Learning Specialty (Senior Level)
-- Oracle Certified Professional
-- Databricks Advanced Machine Learning Operations
-- Databricks Data Preparation for ML
-- Snowflake Platform Training
-- Anthropic AI Certification
-- Udemy: AI, Machine Learning & Deep Learning
-- Udemy: Python Programming
-- JPMorgan Chase Software Engineering Simulation
-- Wells Fargo Software Engineering Simulation
-- Walmart Software Engineering Simulation
+### 🧠 AI Conversational RAG System
+Built a full-stack AI system that converts structured + unstructured data into conversational intelligence.
+
+✔ RAG pipeline with vector databases  
+✔ LangChain + LangGraph workflows  
+✔ Real-time AI chatbot interface  
+✔ Production-grade backend APIs  
 
 ---
 
+### 🤖 Agentic AI Systems (Airbnb)
+Built scalable LLM agent systems capable of multi-step reasoning and tool execution.
 
-## 🎯 Focus Areas
+✔ 50K+ RPS backend systems  
+✔ Sub-200ms inference latency  
+✔ Agent orchestration pipelines  
+✔ LLM evaluation + monitoring  
 
-- Generative AI / LLM Engineering  
-- Agentic AI Systems  
-- RAG Architecture Design  
-- Distributed Backend Systems  
-- MLOps / LLMOps  
-- Full Stack AI Applications  
-- Production ML Systems  
+---
+
+### 🏥 Healthcare AI Systems
+Built secure AI systems for enterprise healthcare workflows.
+
+✔ NLP + RAG pipelines  
+✔ HIPAA-compliant APIs  
+✔ Document intelligence systems  
+✔ Large-scale data processing  
+
+---
+
+### 📉 Fraud Detection AI System
+Built ML + LLM hybrid system for refund fraud detection.
+
+✔ CLIP + FAISS + LLM pipeline  
+✔ 10K+ images/day processing  
+✔ 92% accuracy system  
+✔ 65% reduction in manual review  
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/rohithsadanala1/
-- GitHub: https://github.com/rohithsadanala
-- Email: rohithsadanala1@gmail.com
+<div align="center">
+
+📧 Email: rohithsadanala1@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/rohithsadanala1/  
+💻 GitHub: https://github.com/rohithsadanala  
+
+</div>
 
 ---
 
