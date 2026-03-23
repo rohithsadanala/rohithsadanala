@@ -95,6 +95,14 @@ I am an AI Engineer with a Master's in Computer Science and over 4 years of expe
 </p>
 
 ---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 <div align="center">
   <i>⭐ Architecting production-grade AI systems that combine advanced LLMs, scalable backend engineering, and measurable real-world impact.</i>
 </div>
